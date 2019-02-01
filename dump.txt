@@ -1,0 +1,10 @@
+13:51:38.531000 == Info: Rebuilt URL to: example.com/
+13:51:38.562000 == Info:   Trying 93.184.216.34...
+13:51:38.562000 == Info: TCP_NODELAY set
+13:51:38.562000 == Info: Connected to example.com (93.184.216.34) port 80 (#0)
+13:51:38.562000 => Send header, 75 bytes (0x4b)
+0000: GET / HTTP/1.1
+0010: Host: example.com
+0023: User-Agent: curl/7.55.1
+003c: Accept: */*
+0049: 
